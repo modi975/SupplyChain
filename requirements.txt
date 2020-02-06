@@ -6,7 +6,7 @@ Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
 Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.13.3
 pandas==0.21.0
 scipy==1.0.0
