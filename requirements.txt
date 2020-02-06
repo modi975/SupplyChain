@@ -1,5 +1,5 @@
 Cython==0.27.3
-Flask==0.12.2
+Flask==1.0
 Flask-RESTful==0.3.6
 Flask-Restless==0.17.0
 Flask-Script==2.0.6
